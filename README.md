@@ -10,7 +10,6 @@ where index_struct_type has next values:
 - 4 - suffix tree
 ## Test data
 Test data files was to big for uploading it on github and there are links to this files:
-- [Canis lupus familiaris genom](ftp://ftp.ncbi.nlm.nih.gov/genomes/Canis_lupus_familiaris/CHR_01/cfa_ref_CanFam3.1_chr1.fa.gz)
-- [Phoenix dactylifera genome](ftp://ftp.ncbi.nlm.nih.gov/genomes/Phoenix_dactylifera/CHR_Un/42345_ref_DPV01_chrUn.fa.gz)
-- [Ananas comosus cultivar genome](ftp://ftp.ncbi.nlm.nih.gov/genomes/Ananas_comosus/CHR_01/4615_ref_ASM154086v1_chr1.fa.gz)
-- [link to Google!](http://google.com)
+- [Canis lupus familiaris genom](http://ftp.ncbi.nlm.nih.gov/genomes/Canis_lupus_familiaris/CHR_01/cfa_ref_CanFam3.1_chr1.fa.gz)
+- [Phoenix dactylifera genome](http://ftp.ncbi.nlm.nih.gov/genomes/Phoenix_dactylifera/CHR_Un/42345_ref_DPV01_chrUn.fa.gz)
+- [Ananas comosus cultivar genome](http://ftp.ncbi.nlm.nih.gov/genomes/Ananas_comosus/CHR_01/4615_ref_ASM154086v1_chr1.fa.gz)
