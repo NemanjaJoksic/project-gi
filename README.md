@@ -1,5 +1,5 @@
 ## Introduction
-This repo contains python scripts that were used for testing off-line processing string matching algorithms. This scripts were used for performance comparation between different algorithms variation.
+This repo contains python scripts which were used for testing off-line processing string matching algorithms. This scripts were used for performance comparation between different algorithms variation.
 ## Test running
 Testing starts with command:
 python script.py test_file_path index_struct_type pattern_1 pattern_2 ...
